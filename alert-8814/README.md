@@ -4,7 +4,7 @@
 **Alert severity:** Medium
 **Classification:** False positive
 **Escalation required:** No
-**Tools used:** Splunk, TryDetectThis, asset inventory (documentation)
+**Tools used:** Splunk, TryDetectThis, company information (documentation)
 
 ## Alert details
 
