@@ -2,7 +2,7 @@
 
 Phishing alert investigations and case reports from the TryHackMe SOC Simulator. Each alert has its own folder with the full written report and the screenshots that back it up.
 
-> **Note:** these investigations were done in a training environment with simulated data. All email addresses, domains and IP addresses are fictional or defanged (for example `hxxp://` and `[.]`).
+> **Note:** these investigations were done in a training environment with simulated data. All email addresses, domains and IP addresses are fictional or defanged.
 
 ## Tools used
 
