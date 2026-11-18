@@ -39,7 +39,7 @@ Used to match the source IP 10.20.2.17 to Hannah Harris (Human Resources, win-34
 
 ### 5. Related evidence from alert 8815
 The same email and host were investigated in alert 8815, which includes:
-- An all-time search of the sender, which returned one email to one recipient: [sender search](../alert-8815/screenshots/A8815-SplunkSearch5.png)
+- An all-time search of the sender, which returned one email to one recipient: [sender search](../alert-8815/screenshots/A8815-SplunkSearch4.png)
 - An all-time search of host 10.20.2.17, which returned two events: [host search part 1](../alert-8815/screenshots/A8815-SplunkSearch3a.png) and [part 2](../alert-8815/screenshots/A8815-SplunkSearch3b.png)
 
 ## Case report
