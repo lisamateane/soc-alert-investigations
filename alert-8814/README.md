@@ -39,7 +39,7 @@ Three events: the two emails from the domain, and an internal email from HR stat
 ![Domain search part 2](screenshots/A8814-SplunkSearch3b.png)
 ![Domain search part 3](screenshots/A8814-SplunkSearch3c.png)
 
-### 5. Asset inventory
+### 5. Documentation
 Used to match the recipient and the internal senders to their roles and hosts.
 
 ![Asset inventory 1](screenshots/A8814-Documentation1.png)
