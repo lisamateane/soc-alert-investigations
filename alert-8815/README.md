@@ -40,7 +40,7 @@ Two events were found. The first was an allowed Google search at 08:34:53, befor
 ### 5. Search for the sender in Splunk (all time)
 One event was found: the email under investigation. No other employees received email from this sender.
 
-![Sender search (all time)](screenshots/A8815-SplunkSearch5.png)
+![Sender search (all time)](screenshots/A8815-SplunkSearch4.png)
 
 ### 6. Asset inventory
 Used to match the host 10.20.2.17 to the recipient, Hannah Harris (Human Resources, win-3457).
