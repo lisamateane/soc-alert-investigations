@@ -8,7 +8,7 @@ Phishing alert investigations and case reports from the TryHackMe SOC Simulator.
 
 - **Splunk:** searching email and firewall logs (all-time searches)
 - **TryDetectThis:** checking the reputation of URLs, IP addresses and sender addresses
-- **Asset inventory:** matching IP addresses and email addresses to employees and workstations
+- **Company Information:** matching IP addresses and email addresses to employees and workstations
 
 ## Investigations
 
