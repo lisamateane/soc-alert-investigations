@@ -4,7 +4,7 @@
 **Alert severity:** Medium
 **Classification:** True positive
 **Escalation required:** Yes
-**Tools used:** Splunk, TryDetectThis, asset inventory (documentation)
+**Tools used:** Splunk, TryDetectThis, company information (documentation)
 **Related alert:** 8816 (the firewall block of the same URL from the same host)
 
 ## Alert details
