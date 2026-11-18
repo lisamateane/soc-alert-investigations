@@ -42,7 +42,7 @@ One event was found: the email under investigation. No other employees received 
 
 ![Sender search (all time)](screenshots/A8815-SplunkSearch4.png)
 
-### 6. Asset inventory
+### 6. Documentation
 Used to match the host 10.20.2.17 to the recipient, Hannah Harris (Human Resources, win-3457).
 
 ![Asset inventory](screenshots/A8815-Documentation.png)
