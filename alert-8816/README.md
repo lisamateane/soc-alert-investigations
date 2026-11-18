@@ -4,7 +4,7 @@
 **Alert severity:** High
 **Classification:** True positive
 **Escalation required:** Yes
-**Tools used:** Splunk, TryDetectThis, asset inventory (documentation)
+**Tools used:** Splunk, TryDetectThis, company information (documentation)
 **Related alert:** 8815 (the phishing email that delivered this URL)
 
 ## Alert details
