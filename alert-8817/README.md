@@ -54,7 +54,7 @@ The search returned 7 events. The screenshots show three of them: an allowed con
 ![Host search part 1](screenshots/A8817-SplunkSearch5a.png)
 ![Host search part 2](screenshots/A8817-SplunkSearch5b.png)
 
-### 7. Asset inventory
+### 7. Documentation
 Used to match the host 10.20.2.25 to the recipient, Charlotte Allen (Web Development, win-3463).
 
 ![Asset inventory](screenshots/A8817-Documentation.png)
