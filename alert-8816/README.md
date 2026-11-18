@@ -24,13 +24,13 @@ Both the URL and the destination IP returned MALICIOUS.
 ### 2. Search for the link in Splunk (all time)
 Two events were found: the blocked firewall connection at 08:37:15, and an inbound email at 08:36:01 from urgents@amazon[.]biz to h.harris@thetrydaily[.]thm that contains the link.
 
-![Link search part 1](screenshots/A8816-Splunk_Search1a.png)
-![Link search part 2](screenshots/A8816-Splunk_Search1b.png)
+![Link search part 1](screenshots/A8816-Splunk%20Search1a.png)
+![Link search part 2](screenshots/A8816-Splunk%20Search1b.png)
 
 ### 3. Search for the destination IP in Splunk (all time)
 One event was found: the same blocked connection at 08:37:15.
 
-![Destination IP search](screenshots/A8816-Splunk_Search2.png)
+![Destination IP search](screenshots/A8816-Splunk%20Search2.png)
 
 ### 4. Asset inventory
 Used to match the source IP 10.20.2.17 to Hannah Harris (Human Resources, win-3457).
