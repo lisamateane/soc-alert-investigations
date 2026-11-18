@@ -32,7 +32,7 @@ One event was found: the same blocked connection at 08:37:15.
 
 ![Destination IP search](screenshots/A8816-Splunk%20Search2.png)
 
-### 4. Asset inventory
+### 4. Documentation
 Used to match the source IP 10.20.2.17 to Hannah Harris (Human Resources, win-3457).
 
 ![Asset inventory](screenshots/A8816-Documentation.png)
