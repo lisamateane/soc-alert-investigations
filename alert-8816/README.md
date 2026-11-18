@@ -11,7 +11,7 @@
 
 The firewall blocked an outbound connection from 10.20.2.17 to hxxp://bit[.]ly/3sHkX3da12340 (destination IP 67[.]199[.]248[.]11, port 80) at 08:37:15, under the "Blocked Websites" rule.
 
-![Alert details](screenshots/A8816-Details.png)
+![Alert details](screenshots/A8816-details.png)
 
 ## Investigation steps
 
